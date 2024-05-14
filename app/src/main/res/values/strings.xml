@@ -1,3 +1,26 @@
 <resources>
-    <string name="app_name">FlightArchive</string>
+    <string name="app_name">Flight Archive</string>
+    <string name="list_kosong">Belum ada data</string>
+    <string name="x_diklik">%1$s diklik!</string>
+    <string name="invalid">semua data harus diisi!</string>
+    <string name="lainnya">Pilihan Lainnya</string>
+    <string name="nama">Nama maskapai</string>
+    <string name="nomorPenerbangan">Nomor penerbangan</string>
+    <string name="tanggalPenerbangan">Tanggal penerbangan</string>
+    <string name="jamPenerbangan">Jam penerbangan</string>
+    <string name="kembali">Kembali</string>
+    <string name="simpan">Simpan</string>
+    <string name="kelas1">D3IF–46–01</string>
+    <string name="kelas2">D3IF–46–02</string>
+    <string name="kelas3">D3IF–46–03</string>
+    <string name="kelas4">D3IF–46–04</string>
+    <string name="kelas5">D3IF–46–05</string>
+    <string name="tambah_flight">Tambah penerbangan</string>
+    <string name="edit_flight">Ubah Data penerbangan</string>
+    <string name="hapus">Hapus Data penerbangan</string>
+    <string name="list">Tampilan List</string>
+    <string name="grid">Tampilan Grid</string>
+    <string name="pesan_hapus">Hapus Data penerbangan Ini?</string>
+    <string name="tombol_hapus">Hapus</string>
+    <string name="tombol_batal">Batal</string>
 </resources>
